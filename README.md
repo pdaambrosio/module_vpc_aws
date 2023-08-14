@@ -1,6 +1,7 @@
 # module_vpc_aws
 
-Terraform module to create VPC on AWS
+- Terraform module to create VPC on AWS
+- Example of use see this repository: [atlantis_terraform](https://github.com/pdaambrosio/atlantis_terraform)
 
 <!-- BEGIN_AUTOMATED_TF_DOCS_BLOCK -->
 ## Requirements
